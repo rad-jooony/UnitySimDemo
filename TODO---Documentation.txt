@@ -1,8 +1,0 @@
-
-The plan is to make the turret turn slowly, but obviouslty faster than the plane at typical distance
-
-thre will be a guide that follows the same mechanics as the bullet meaning it is easy to tell where the bullet will be fired
-
-planes need to fly, have collision etc.
-
-the ground needs to be interactable so planes dont fall through it
